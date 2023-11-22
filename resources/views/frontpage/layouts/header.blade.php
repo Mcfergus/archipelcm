@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{asset('frontend/assets/img/favicon.png')}}" rel="icon">
-  <link href="{{asset('frontend/assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
+  <link href="{{asset('frontend/assets/img/logo.jpeg')}}" rel="icon">
+  <link href="{{asset('frontend/assets/img/logo.jpeg')}}" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i&display=swap" rel="stylesheet">
@@ -44,20 +44,20 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.html"><span>ARCHIPELCM</span></a></h1>
+        <h1 class="text-light"><a href="{{route('index')}}"><span>MINDBYARCHIPEL</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="active " href="{{route('index')}}">Home</a></li>
-          <li><a href="{{('about')}}">About</a></li>
-          <li><a href="{{('services')}}">Services</a></li>
-          <li><a href="{{('certifications')}}">Certifications</a></li>
-          <li><a href="{{('emplois')}}">Offres D'emploi</a></li>
+          <li><a class="active " href="{{route('index')}}">ACCUEIL</a></li>
+          <li><a href="{{('about')}}">A PROPOS</a></li>
+          <li><a href="{{('services')}}">SERVICES</a></li>
+          <li><a href="{{('certifications')}}">NOS FORMATIONS</a></li>
+          <li><a href="{{('emplois')}}">OFFRES D'EMPLOI</a></li>
           
-          <li><a href="{{('contact')}}">Contact Us</a></li>
+          <li><a href="{{('contact')}}">CONTACTEZ NOUS</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

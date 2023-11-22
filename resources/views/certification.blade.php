@@ -9,8 +9,8 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">OUR CERTIFICATIONS</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">NOS FORMATIONS</h2>
+          <p class="animate__animated animate__fadeInUp">découvrez les formations que nous offrons et formez vous chez nous</p>
           
         </div>
       </div>
@@ -36,11 +36,29 @@
           </div>
           @endforeach
            @else
-              <h3>OOpppss No Certifications Available 🙂🙂 </h3>
+              <h3>OOppps PAS DE FORMATIONS DISPONIBLE 🙂🙂 </h3>
         @endif
           
          
           
+        </div>
+
+      </div>
+    </section>
+
+
+    <section class="facts section-bg" data-aos="fade-up">
+      <div class="container">
+
+        <div class="row counters">
+
+          <div class="col-lg-12 col-12 text-center">
+            <h4>Intéressé par nos formations ? Envoyez-nous un message avec objet "Je M'inscris" et Avec votre Nom, Localisation, occupation et Numero de telephone en message en cliquant sur le bouton ci-dessous👇</h4>
+            
+              <a href="{{('contact')}}"><button class="btn btn-outline-info mt-3" type="submit">Send</button></a>
+            
+          </div>
+
         </div>
 
       </div>

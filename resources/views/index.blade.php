@@ -7,8 +7,8 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>ARCHIPEL</span></h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">WELCOME TO <span>MINDBYARCHIPEL</span></h2>
+          <p class="animate__animated animate__fadeInUp">Bienvenue chez nous, c'est ici que nous vous servons avec la meilleure qualité de service. Faites-nous confiance et laissez-nous nous occuper du reste.</p>
           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
@@ -16,8 +16,8 @@
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">FORMEZ-VOUS CHEZ NOUS</h2>
+          <p class="animate__animated animate__fadeInUp">choisissez de travailler avec nous pour rester à la pointe de l'actualité et les plus compétitifs du marché, mettre en valeur vos compétences, bénéficier et saisir les opportunités d'emploi de nos partenaires</p>
           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
@@ -25,8 +25,8 @@
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">DEVENEZ PARTENAIRE AVEC NOUS</h2>
+          <p class="animate__animated animate__fadeInUp">faites-nous confiance pour obtenir les meilleurs profils et personnels de travail pour votre entreprise et vous servir avec un service de qualité pour une meilleure expérience.</p>
           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
@@ -52,32 +52,32 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box icon-box-pink">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Qualite</a></h4>
+              <p class="description">La qualité est le reflet de notre engagement envers nos clients et de notre réputation sur le marché.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="">Pro-activite</a></h4>
+              <p class="description">En faisant preuve de proactivité dans la gestion de projets et d’initiatives, nous ouvrons la voie à une croissance et à une prospérité à long terme.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Audace</a></h4>
+              <p class="description">Inspirés par l'audace, nous conquérons des territoires inexplorés, défiant les pronostics et favorisant une détermination sans faille.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-blue">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">Creativite</a></h4>
+              <p class="description">Favoriser la créativité dans la société non seulement suscite des esprits innovants, mais favorise également un environnement prospère pour la croissance.</p>
             </div>
           </div>
 
@@ -92,23 +92,26 @@
 
         <div class="row">
           <div class="col-lg-6 video-box">
-            <img src="{{asset('frontend/assets/img/why-us.jpg')}}" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+            <img src="{{asset('frontend/assets/img/why-us.jpeg')}}" class="img-fluid" alt="">
+            <a href="https://youtube.com/shorts/q_sN0Y9q2cE?feature=share" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
           </div>
 
           <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href=""><strong>MIND BY ARCHIPEL</strong></a></h4>
+              <p class="description"><strong>MIND BY ARCHIPEL</strong> est une entreprise spécialisée dans la mise en relation des chercheurs d’emplois, des entreprises et des proféssionnels. Nous accompagnons notre clientèle à développer son effort et son champ de contact à travers nos bases de données.
+                 Accédez à nos différents services en visitant notre site!
+                  Élargissons notre réseau et nous atteindrons ensemble la partie cachée de l’ICEBERG.
+              </p>
             </div>
 
-            <div class="icon-box">
+            <!-- <div class="icon-box">
               <div class="icon"><i class="bx bx-gift"></i></div>
               <h4 class="title"><a href="">Nemo Enim</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
+            </div> -->
 
           </div>
         </div>
@@ -121,8 +124,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>NOS SERVICES</h2>
+          <p>Découvrez nos différents services et exploitez-les</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -130,14 +133,15 @@
             <img src="{{asset('frontend/assets/img/features-1.svg')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
+            <h3>CONSEIL EN MARKETING ET COMMUNICATION</h3>
+            <!-- <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
-            </p>
+            </p> -->
             <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="bi bi-check"></i> Élaboration et mise en œuvre de stratégies marketing et communication.</li>
+              <li><i class="bi bi-check"></i> Gestionnaire de communauté.</li>
+              <li><i class="bi bi-check"></i> Conception et impression de supports de communication.</li>
             </ul>
           </div>
         </div>
@@ -147,15 +151,13 @@
             <img src="{{asset('frontend/assets/img/features-2.svg')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="fst-italic">
+            <h3>EXTERNALISATIONS SERVICE CLIENT</h3>
+            <!-- <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
-            </p>
+            </p> -->
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            ARCHIPEL gère le service client de votre entreprise. Emission et réception d'appels a travers du conseil et de la prise de rendez-vous pour vos commerciaux au sein de son Call Center.
             </p>
           </div>
         </div>
@@ -165,12 +167,12 @@
             <img src="{{asset('frontend/assets/img/features-3.svg')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
+            <h3>EVENEMENTIEL</h3>
+            <!-- <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p> -->
             <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
+              <li><i class="bi bi-check"></i> Organisation et gestion de vos événements adaptés à vos besoins.</li>
+              <li><i class="bi bi-check"></i> Mise à disposition d'hôtes/hôtesses et de brand girls qualifiées.</li>
+              
             </ul>
           </div>
         </div>
@@ -180,15 +182,13 @@
             <img src="{{asset('frontend/assets/img/features-4.svg')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-            <p class="fst-italic">
+            <h3>RECYCLAGE DU PERSONNEL EN RELATION CLIENT ET ASSISTANAT</h3>
+            <!-- <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
-            </p>
+            </p> -->
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            ARCHIPEL CM agréé par le MINEFOP recycle ses candidats expérimentés aux métiers de la Relation Client et les insère auprès d'entreprises partenaires
             </p>
           </div>
         </div>

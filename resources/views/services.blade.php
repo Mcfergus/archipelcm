@@ -16,52 +16,88 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">OUR SERVICES</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">NOS SERVICES</h2>
+          <p class="animate__animated animate__fadeInUp">découvrez les services que nous offrons et exploitez les</p>
           
         </div>
       </div>
     </section>
 
 
-    <section class="services">
+    <!-- ======= Features Section ======= -->
+    <section class="features">
       <div class="container">
 
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="icon-box icon-box-pink">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
+        <div class="section-title">
+          <h2>NOS SERVICES</h2>
+          <p>Découvrez nos différents services et exploitez-les</p>
+        </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box icon-box-cyan">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-            </div>
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5">
+            <img src="{{asset('frontend/assets/img/features-1.svg')}}" class="img-fluid" alt="">
           </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box icon-box-green">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-            </div>
+          <div class="col-md-7 pt-4">
+            <h3>CONSEIL EN MARKETING ET COMMUNICATION</h3>
+            <!-- <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p> -->
+            <ul>
+              <li><i class="bi bi-check"></i> Élaboration et mise en œuvre de stratégies marketing et communication.</li>
+              <li><i class="bi bi-check"></i> Gestionnaire de communauté.</li>
+              <li><i class="bi bi-check"></i> Conception et impression de supports de communication.</li>
+            </ul>
           </div>
+        </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box icon-box-blue">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="{{asset('frontend/assets/img/features-2.svg')}}" class="img-fluid" alt="">
           </div>
+          <div class="col-md-7 pt-5 order-2 order-md-1">
+            <h3>EXTERNALISATIONS SERVICE CLIENT</h3>
+            <!-- <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p> -->
+            <p>
+            ARCHIPEL gère le service client de votre entreprise. Emission et réception d'appels a travers du conseil et de la prise de rendez-vous pour vos commerciaux au sein de son Call Center.
+            </p>
+          </div>
+        </div>
 
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5">
+            <img src="{{asset('frontend/assets/img/features-3.svg')}}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5">
+            <h3>EVENEMENTIEL</h3>
+            <!-- <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p> -->
+            <ul>
+              <li><i class="bi bi-check"></i> Organisation et gestion de vos événements adaptés à vos besoins.</li>
+              <li><i class="bi bi-check"></i> Mise à disposition d'hôtes/hôtesses et de brand girls qualifiées.</li>
+              
+            </ul>
+          </div>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="{{asset('frontend/assets/img/features-4.svg')}}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5 order-2 order-md-1">
+            <h3>RECYCLAGE DU PERSONNEL EN RELATION CLIENT ET ASSISTANAT</h3>
+            <!-- <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p> -->
+            <p>
+            ARCHIPEL CM agréé par le MINEFOP recycle ses candidats expérimentés aux métiers de la Relation Client et les insère auprès d'entreprises partenaires
+            </p>
+          </div>
         </div>
 
       </div>
-    </section>
+    </section><!-- End Features Section -->
 @endsection

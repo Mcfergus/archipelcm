@@ -23,30 +23,30 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{route('index')}}">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{('about')}}">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{('services')}}">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{route('index')}}">ACCUEIL</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{('about')}}">A PROPOS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{('services')}}">SERVICES</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>NOS SERVICES</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">CONSEIL EN MARKETING ET COMMUNICATION</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">EXTERNALISATIONS SERVICE CLIENT</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">EVENEMENTIEL</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">RECYCLAGE DU PERSONNEL EN RELATION CLIENT ET ASSISTANAT</a></li>
+              
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>CONTACTEZ NOUS</h4>
             <p>
               Diedo <br>
-              Face Pharmacie King Diedo<br>
+              Face Pharmacie King Deido<br>
               Douala, Cameroon <br><br>
               <strong>Phone:</strong> +237 656 14 43 63<br>
               <strong>Email:</strong> mindbyarchipel@gmail.com<br>
@@ -55,13 +55,13 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>About ARCHIPEL</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <h3>A PROPOS D'ARCHIPEL</h3>
+            <p><strong>ARCHIPEL CM</strong> est une société holding créée en 2010 spécialisée dans la <strong>prestation de services et d'expérience client</strong> au niveau national et international, agréé par le <b>MINFOP AGREMENT N° 259/MINEFOP/SG/DFOP/SDGSF/ SACD DU 01 AOÛT 2014</b>.</p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://www.facebook.com/ARCHIPELCM/" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/communicationarchipel/" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.instagram.com/communicationarchipel/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 

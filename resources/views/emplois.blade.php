@@ -9,8 +9,8 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">OUR JOB OFFERS</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">NOS OFFRES D'EMPLOI</h2>
+          <p class="animate__animated animate__fadeInUp">Découvrez les offres d'emploi chez ARCHIPEL et postulez en cliquant sur le bouton ci-dessous.</p>
           
         </div>
       </div>
@@ -70,7 +70,7 @@
         <div class="row counters">
 
           <div class="col-lg-12 col-12 text-center">
-            <h4>Interested in our offers? Send us your CV and Cover Letter</h4>
+            <h4>Intéressé par nos offres ? Envoyez-nous votre CV et lettre de motivation en cliquant sur le bouton ci-dessous👇</h4>
             
               <a href="mailto:mindbyarchipel@gmail.com"><button class="btn btn-outline-info mt-3" type="submit">Send</button></a>
             
